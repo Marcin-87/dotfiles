@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 97686241+Marcin-87@users.noreply.github.com
+	name = Marcin Niemiec
